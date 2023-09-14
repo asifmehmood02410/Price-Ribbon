@@ -1,0 +1,1 @@
+This project demonstrating how to create a price tag \ discount tag \ new arrival Tag.
